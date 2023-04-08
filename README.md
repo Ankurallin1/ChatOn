@@ -5,6 +5,7 @@
 
 -  **npm install**
 -  **nodemon server.js**
+-  **open https://localhost:3000**
 
 
 
